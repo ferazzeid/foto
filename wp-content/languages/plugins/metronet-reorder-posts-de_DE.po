@@ -1,0 +1,146 @@
+# Translation of Plugins - Reorder Posts - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Reorder Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-08 17:47:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Reorder Posts - Stable (latest release)\n"
+
+#: class-reorder-admin.php:106
+msgid "No"
+msgstr "Nein"
+
+#: class-reorder-admin.php:105
+msgid "Yes"
+msgstr "Ja"
+
+#: class-reorder-admin.php:280
+msgctxt "plugin settings heading"
+msgid "Reorder Posts"
+msgstr "Seiten neu sortieren"
+
+#: class-reorder.php:396
+msgid "Items per Page"
+msgstr "Elemente pro Seite"
+
+#: class-reorder-admin.php:82 class-reorder-admin.php:389
+msgctxt "Plugin Name - Settings Page Title"
+msgid "Reorder Posts"
+msgstr "Reorder Posts"
+
+#: class-reorder-admin.php:82
+msgctxt "Plugin Name - Menu Item"
+msgid "Reorder Posts"
+msgstr "Reorder Posts"
+
+#: class-reorder-admin.php:147
+msgid "Sort by:"
+msgstr "Sortieren nach:"
+
+#: class-reorder-admin.php:149
+msgid "None"
+msgstr "Nichts"
+
+#: class-reorder-admin.php:150
+msgid "Menu Order"
+msgstr "Menüreihenfolge"
+
+#: class-reorder-admin.php:156
+msgid "Sort Order:"
+msgstr "Sortierreihenfolge"
+
+#: class-reorder-admin.php:158
+msgid "ASC"
+msgstr "Auftsteigend (Grösstes Element zuletzt)"
+
+#: class-reorder-admin.php:159
+msgid "DESC"
+msgstr "Absteigend (Grösstes Element zuerst)"
+
+#: class-reorder-admin.php:225
+msgctxt "Plugin settings link on the plugins page"
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: class-reorder-admin.php:278
+msgctxt "plugin settings heading"
+msgid "Advanced"
+msgstr "Erweiterte Einstellungen"
+
+#: class-reorder-admin.php:284
+msgid "Select the menu order arguments."
+msgstr "Wählen Sie die Argumente für Menüreihenfolge."
+
+#: class-reorder.php:169 class-reorder.php:173 index.php:97
+msgid "Reorder"
+msgstr "Neu anordnen"
+
+#: class-reorder.php:342
+msgid "Expand"
+msgstr "Öffnen"
+
+#: class-reorder.php:343
+msgid "Collapse"
+msgstr "Schliessen"
+
+#: class-reorder.php:480
+msgid "There is nothing to sort at this time"
+msgstr "Es gibt hier im Moment nichts zu sortieren."
+
+#: index.php:88
+msgid "Reorder %s"
+msgstr "%s neu anordnen"
+
+#. Plugin Name of the plugin
+msgid "Reorder Posts"
+msgstr "Reorder Posts"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/metronet-reorder-posts/"
+msgstr "https://wordpress.org/plugins/metronet-reorder-posts/"
+
+#. Description of the plugin
+msgid "Easily reorder posts and pages in WordPress"
+msgstr "Ordne Beiträge und Seiten auf eine einfache Weise neu an"
+
+#. Author of the plugin
+msgid "Ryan Hellyer, Ronald Huereca, Scott Basgaard"
+msgstr "Ryan Hellyer, Ronald Huereca, Scott Basgaard"
+
+#. Author URI of the plugin
+msgid "https://github.com/ronalfy/reorder-posts"
+msgstr "https://github.com/ronalfy/reorder-posts"
+
+#: class-reorder-admin.php:209
+msgid "These are advanced options and you should only use these if you know what you are doing.  These can overwrite the menu orders of custom queries (using get_posts or WP_Query), custom post type archives, and even the order your blog posts display."
+msgstr "Dies sind erweiterte Optionen welche nur geändert werden sollten, wenn man weiss was man tut. Änderungen können die Reihenfolge eigener Queries (get_posts() oder WP_Query), diejenige von Archiven eigener Beitragstypen und sogar die Reihenfolge der Blogeinträge ändern."
+
+#: class-reorder-admin.php:276
+msgctxt "plugin settings heading"
+msgid "Enable Post Types"
+msgstr "Für folgende Beitragstypen aktivieren"
+
+#: class-reorder-admin.php:282
+msgid "Select the post types you would like this plugin enabled for."
+msgstr "Wähle Beitragstypen an, für welche dieses Plugin einen Menüeintrag erzeugen soll."
+
+#: class-reorder-admin.php:284
+msgid "Select the menu order for the post types."
+msgstr "Wähle die Reihenfolge für die Beitragstypen."
+
+#: class-reorder.php:430
+msgid "There are over %s posts found.  We do not recommend you sort these posts for performance reasons."
+msgstr "Es wurden mehr als %s Beiträge gefunden. Wir empfehlen aus Performance-Gründen diese Beiträge nicht zu sortieren."
+
+#: index.php:87
+msgid "Posts"
+msgstr "Beiträge"
+
+#: class-reorder-admin.php:282
+msgid "Post Types"
+msgstr "Inhaltstypen"

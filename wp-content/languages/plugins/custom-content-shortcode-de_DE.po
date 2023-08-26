@@ -1,0 +1,90 @@
+# Translation of Plugins - Custom Content Shortcode - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Custom Content Shortcode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-06 07:02:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Custom Content Shortcode - Stable (latest release)\n"
+
+#: includes/modules/format.php:637
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] "vor %s Woche"
+msgstr[1] "vor %s Wochen"
+
+#: includes/modules/format.php:635
+msgid "Yesterday"
+msgid_plural "%s days ago"
+msgstr[0] "Gestern"
+msgstr[1] "vor %s Tagen"
+
+#: includes/modules/format.php:633
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "vor %s Stunde"
+msgstr[1] "vor %s Stunden"
+
+#: includes/modules/format.php:631
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "vor %s Minute"
+msgstr[1] "vor %s Minuten"
+
+#: includes/modules/format.php:629
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "vor %s Sekunde"
+msgstr[1] "vor %s Sekunden"
+
+#. translators: If your word count is based on single characters (East Asian
+#. characters), enter 'characters'. Otherwise, enter 'words'. Do not translate
+#. into your own language.
+#: includes/modules/format.php:584
+msgctxt "word count: words or characters?"
+msgid "words"
+msgstr "Wörter"
+
+#: includes/modules/format.php:580
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: includes/modules/comments.php:629
+msgid "Website"
+msgstr "Website"
+
+#: includes/modules/comments.php:621
+msgid "Email"
+msgstr "E-Mail"
+
+#: includes/modules/comments.php:416
+msgid "Log in to Reply"
+msgstr "Zum Antworten anmelden"
+
+#: includes/modules/comments.php:415
+msgid "Reply"
+msgstr "Antwort"
+
+#. Author URI of the plugin
+msgid "https://eliotakira.com"
+msgstr "https://eliotakira.com"
+
+#. Author of the plugin
+msgid "Eliot Akira"
+msgstr "Eliot Akira"
+
+#. Description of the plugin
+msgid "Display posts, pages, custom post types, custom fields, files, images, comments, attachments, menus, or widget areas"
+msgstr "Anzeigen von Beiträgen, Seiten, individuellen Inhaltstypen, individuellen Feldern, Dateien, Bildern, Kommentaren, Anhängen, Menüs oder Widgetbereichen"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/custom-content-shortcode/"
+msgstr "https://de.wordpress.org/plugins/custom-content-shortcode/"
+
+#. Plugin Name of the plugin
+msgid "Custom Content Shortcode"
+msgstr "Custom Content Shortcode"

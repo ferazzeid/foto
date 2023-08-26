@@ -1,0 +1,2065 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: K Elements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Mar 21 2016 20:01:09 GMT+0200 (EET)\n"
+"PO-Revision-Date: Mon Mar 21 2016 20:02:42 GMT+0200 (EET)\n"
+"Last-Translator: admin user <abe@seventhqueen.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_US"
+
+#. Name of the plugin
+msgid "K Elements"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress elements using easy to add shortcodes"
+msgstr ""
+
+#. Author of the plugin
+msgid "SeventhQueen"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://seventhqueen.com"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:125 /compat/plugin-js-composer/config.
+#: php:1574 /compat/plugin-js-composer/config.php:2229 /compat/plugin-js-
+#: composer/config.php:4578
+msgid "Animation"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:139 /compat/plugin-js-composer/config.
+#: php:3101
+msgid "Animation type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:160 /compat/plugin-js-composer/config.
+#: php:176
+msgid "Responsive Visibility"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:161 /compat/plugin-js-composer/config.
+#: php:2635
+msgid "Hide/Show content by screen size."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:181
+msgid "Letter spacing"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:182
+msgid "Set a custom letter spacing."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:198 /compat/plugin-js-composer/config.
+#: php:208
+msgid "Vertical separator"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:199
+msgid "Set a fancy vertical line separator to the left side."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:214 /compat/plugin-js-composer/config.
+#: php:1320 /compat/plugin-js-composer/config.php:5388 /compat/plugin-js-
+#: composer/config.php:5404 /compat/plugin-js-composer/config.php:5419
+#: compat/plugin-js-composer/config.php:5434 /compat/plugin-js-composer/config.
+#: php:5449 /compat/plugin-js-composer/config.php:5463 /compat/plugin-js-
+#: composer/config.php:5478
+msgid "Icon"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:223 /compat/plugin-js-composer/config.
+#: php:1332 /compat/plugin-js-composer/config.php:1426 /compat/plugin-js-
+#: composer/config.php:1439 /compat/plugin-js-composer/config.php:2041
+#: compat/plugin-js-composer/config.php:2053 /compat/plugin-js-composer/config.
+#: php:5400 /compat/plugin-js-composer/config.php:5415 /compat/plugin-js-
+#: composer/config.php:5430 /compat/plugin-js-composer/config.php:5445
+#: compat/plugin-js-composer/config.php:5474 /compat/plugin-js-composer/config.
+#: php:5489
+msgid "Select icon from library."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:230 /compat/plugin-js-composer/config.
+#: php:1679 /compat/plugin-js-composer/config.php:2804
+msgid "Icon size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:245
+msgid "Extra class name"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:248
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:255
+msgid "Show Tooltip/Popover"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:262
+msgid "Display a tooltip or popover with descriptive text."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:268
+msgid "Tip position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:280
+msgid "In which position to show the tooltip/popover"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:286
+msgid "Tip/Popover Title"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:298
+msgid "Popover text"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:310
+msgid "Tip/Popover action"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:320
+msgid "When to trigger the popover"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:329 /compat/plugin-js-composer/config.
+#: php:3573
+msgid "Title"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:330
+msgid "Text on the button"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:331
+msgid "Button text."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:338
+msgid "URL(Link)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:346
+msgid "Target"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:359 /compat/plugin-js-composer/config.
+#: php:1610 /compat/plugin-js-composer/config.php:1892 /compat/plugin-js-
+#: composer/config.php:1909 /compat/plugin-js-composer/config.php:3516
+#: compat/plugin-js-composer/config.php:3749 /compat/plugin-js-composer/config.
+#: php:4063
+msgid "Style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:373 /compat/plugin-js-composer/config.
+#: php:804
+msgid "Background color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:375 /compat/plugin-js-composer/config.
+#: php:473
+msgid "Select custom background color."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:377 /compat/plugin-js-composer/config.
+#: php:389 /compat/plugin-js-composer/config.php:401 /compat/plugin-js-
+#: composer/config.php:413 /compat/plugin-js-composer/config.php:425
+#: compat/plugin-js-composer/config.php:437 /compat/plugin-js-composer/config.
+#: php:463 /compat/plugin-js-composer/config.php:475 /compat/plugin-js-
+#: composer/config.php:487
+msgid "Custom button"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:385
+msgid "Hover Background color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:387
+msgid "Select custom background color on hover."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:397 /compat/plugin-js-composer/config.
+#: php:757 /compat/plugin-js-composer/config.php:1363
+msgid "Text color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:399 /compat/plugin-js-composer/config.
+#: php:485
+msgid "Select custom text color."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:409
+msgid "Hover Text color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:411
+msgid "Select custom text color on hover."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:421
+msgid "Border color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:423
+msgid "Select custom border color."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:433
+msgid "Hover border color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:435
+msgid "Select custom border color on hover."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:448
+msgid "Border width"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:471
+msgid "Boxed Icon Type - Icon Background"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:483
+msgid "Boxed Icon Type - Icon Text color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:498 /compat/plugin-js-composer/config.
+#: php:2093 /compat/plugin-js-composer/config.php:2785
+msgid "Position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:512 /compat/plugin-js-composer/config.
+#: php:2706
+msgid "Size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:528 /compat/plugin-js-composer/config.
+#: php:1499 /compat/plugin-js-composer/config.php:1560 /compat/plugin-js-
+#: composer/config.php:1721 /compat/plugin-js-composer/config.php:1880
+#: compat/plugin-js-composer/config.php:2304 /compat/plugin-js-composer/config.
+#: php:2450 /compat/plugin-js-composer/config.php:2759 /compat/plugin-js-
+#: composer/config.php:4615 /compat/plugin-js-composer/config.php:4729
+#: compat/plugin-js-composer/config.php:4794
+msgid "Type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:545
+msgid "Second title"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:559
+msgid "Rounded button"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:573 /compat/plugin-js-composer/config.
+#: php:1130
+msgid "Border"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:592 /compat/plugin-js-composer/config.
+#: php:2594
+msgid "Font size. Use px|em|pt"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:603 /compat/plugin-js-composer/config.
+#: php:1383
+msgid "Font weight"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:619
+msgid "Make text uppercase"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:635
+msgid "Shadow color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:638 /compat/plugin-js-composer/config.
+#: php:649 /compat/plugin-js-composer/config.php:660 /compat/plugin-js-
+#: composer/config.php:671 /compat/plugin-js-composer/config.php:682
+msgid "Box shadow"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:644
+msgid "Horizontal Length"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:647 /compat/plugin-js-composer/config.
+#: php:658 /compat/plugin-js-composer/config.php:669 /compat/plugin-js-
+#: composer/config.php:680
+msgid "Length in pixels"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:655
+msgid "Vertical Length"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:666
+msgid "Blur Radius"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:677
+msgid "Spread Radius"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:692
+msgid "Query offset"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:714
+msgid "Status"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:715
+msgid ""
+"Select front-end visibility status. If set to Draft it will not show on your "
+"page."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:727 /compat/plugin-js-composer/config.
+#: php:1190
+msgid "Inner Container"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:728 /compat/plugin-js-composer/config.
+#: php:1191
+msgid ""
+"Select whether to insert a container to the section. This will keep the "
+"content from going full with."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:740
+msgid "Text align"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:741
+msgid "Align whole row content."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:760
+msgid "Try to force a color for the whole section."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:761 /compat/plugin-js-composer/config.
+#: php:779 /compat/plugin-js-composer/config.php:796 /compat/plugin-js-
+#: composer/config.php:812 /compat/plugin-js-composer/config.php:825
+#: compat/plugin-js-composer/config.php:841 /compat/plugin-js-composer/config.
+#: php:861 /compat/plugin-js-composer/config.php:880 /compat/plugin-js-
+#: composer/config.php:900 /compat/plugin-js-composer/config.php:918
+#: compat/plugin-js-composer/config.php:935 /compat/plugin-js-composer/config.
+#: php:951 /compat/plugin-js-composer/config.php:964 /compat/plugin-js-
+#: composer/config.php:978 /compat/plugin-js-composer/config.php:991
+#: compat/plugin-js-composer/config.php:1004 /compat/plugin-js-composer/config.
+#: php:1017 /compat/plugin-js-composer/config.php:4988 /compat/plugin-js-
+#: composer/config.php:4994 /compat/plugin-js-composer/config.php:5000
+#: compat/plugin-js-composer/config.php:5006
+msgid "Text & Background"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:768
+msgid "Section style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:778
+msgid ""
+"These styles are set under Theme options. They will apply that section "
+"styling to this row(background color, text color, highlight color, etc)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:786
+msgid "Background style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:818
+msgid "Background image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:831 /compat/plugin-js-composer/config.
+#: php:1260 /compat/plugin-js-composer/config.php:1281 /compat/plugin-js-
+#: composer/config.php:1294
+msgid "Enable dark gradient"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:848
+msgid "BG vertical position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:867
+msgid "BG horizontal position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:886
+msgid "Background repeat"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:906
+msgid "Full-width background"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:924
+msgid "Fixed background"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:942
+msgid "Enable parallax"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:957
+msgid "Parallax speed"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:971
+msgid "Video background (mp4)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:984
+msgid "Video background (ogv)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:997
+msgid "Video background (webm)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1010
+msgid "Image cover"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1024
+msgid "Vertical Aligned Content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1036
+msgid "Between Columns Gap"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1049
+msgid "Top padding"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1052 /compat/plugin-js-composer/config.
+#: php:1062 /compat/plugin-js-composer/config.php:1072 /compat/plugin-js-
+#: composer/config.php:1082 /compat/plugin-js-composer/config.php:1094
+#: compat/plugin-js-composer/config.php:1104 /compat/plugin-js-composer/config.
+#: php:1114 /compat/plugin-js-composer/config.php:1124
+#, php-format
+msgid "Allowed measures: px,em,%,pt,cm."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1059
+msgid "Bottom padding"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1069
+msgid "Left padding"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1079
+msgid "Right padding"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1091
+msgid "Top margin"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1101
+msgid "Bottom margin"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1111
+msgid "Minim height"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1121 /compat/plugin-js-composer/config.
+#: php:1216 /compat/plugin-js-composer/config.php:3920
+msgid "Fixed height"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1131
+msgid "Select whether or not to display a border on this section."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1152
+msgid "Overflow hidden"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1154
+msgid "Check if you want to hide section overflow"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1169 /compat/plugin-js-composer/config.
+#: php:2733 /compat/plugin-js-composer/config.php:2843
+msgid "Custom inline style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1180
+msgid "Element ID"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1205 /compat/plugin-js-composer/config.
+#: php:3900
+msgid "Min. height"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1208 /compat/plugin-js-composer/config.
+#: php:3903
+msgid "Force a minimum height. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1219 /compat/plugin-js-composer/config.
+#: php:3923
+msgid "Force a fixed height. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1226 /compat/plugin-js-composer/config.
+#: php:4002
+msgid "Background horizontal position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1236 /compat/plugin-js-composer/config.
+#: php:1253 /compat/plugin-js-composer/config.php:1266 /compat/plugin-js-
+#: composer/config.php:1287 /compat/plugin-js-composer/config.php:1300
+#: compat/plugin-js-composer/config.php:3996 /compat/plugin-js-composer/config.
+#: php:4012 /compat/plugin-js-composer/config.php:4029
+msgid "Design Options"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1243 /compat/plugin-js-composer/config.
+#: php:4019
+msgid "Background vertical position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1307 /compat/plugin-js-composer/config.
+#: php:3987
+msgid "Z-index"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1310 /compat/plugin-js-composer/config.
+#: php:3990
+msgid "Stack order for overlapping elements. Use integer value."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1350
+msgid "Lead Content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1373 /compat/plugin-js-composer/config.
+#: php:2128
+msgid "Font size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1418
+msgid "Icon when toggle is opened"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1431 /compat/plugin-js-composer/config.
+#: php:2462
+msgid "Icon when toggle is closed"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1445 /compat/plugin-js-composer/config.
+#: php:1691
+msgid "Icon position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1476
+msgid "Full width image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1510 /compat/plugin-js-composer/config.
+#: php:2890 /compat/plugin-js-composer/config.php:3209
+msgid "Number of items per row"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1529
+msgid "Gap"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1548
+msgid "Feature Items Grid"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1553
+msgid "Easily include elements into a Grid container"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1561
+msgid "Select how many items you want per row."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1575
+msgid "Animate elements inside the grid one by one"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1586
+msgid "Colored icons"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1587
+msgid ""
+"Show colored icons. Color will be taken from the Highlight color from Theme "
+"options"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1598
+msgid "Bordered icons"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1599
+msgid "Show bordered icons"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1611
+msgid "Choose a different style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1631
+msgid "Feature Item"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1636
+msgid "Include a feature item in your block grid"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1670
+msgid "Custom icon color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1709
+msgid "Fancy List"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1722
+msgid "Select the list type."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1736 /compat/plugin-js-composer/config.
+#: php:2079
+msgid "Icon color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1752
+msgid "Icon shadow"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1768
+msgid "Large icon"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1784
+msgid "Inline"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1801
+msgid "Divider"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1814 /compat/plugin-js-composer/config.
+#: php:1935
+msgid "Align"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1815
+msgid "Align the list"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1839
+msgid "List Item"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1867 /compat/plugin-js-composer/config.
+#: php:1981 /compat/plugin-js-composer/config.php:2005 /compat/plugin-js-
+#: composer/config.php:2071 /compat/plugin-js-composer/config.php:2212
+#: compat/plugin-js-composer/config.php:2298 /compat/plugin-js-composer/config.
+#: php:2445 /compat/plugin-js-composer/config.php:2530 /compat/plugin-js-
+#: composer/config.php:2551 /compat/plugin-js-composer/config.php:2701
+#: compat/plugin-js-composer/config.php:2752 /compat/plugin-js-composer/config.
+#: php:2855 /compat/plugin-js-composer/config.php:3173 /compat/plugin-js-
+#: composer/config.php:3328 /compat/plugin-js-composer/config.php:3440
+#: compat/plugin-js-composer/config.php:3463 /compat/plugin-js-composer/config.
+#: php:3563 /compat/plugin-js-composer/config.php:3642 /compat/plugin-js-
+#: composer/config.php:3683 /compat/plugin-js-composer/config.php:3795
+#: compat/plugin-js-composer/config.php:3810 /compat/plugin-js-composer/config.
+#: php:4044 /compat/plugin-js-composer/config.php:4110 /compat/plugin-js-
+#: composer/config.php:4155 /compat/plugin-js-composer/config.php:4191
+msgid "Content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:1991
+msgid "Tabs Position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2019
+msgid "Icons position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2033
+msgid "Icon when accordion item is opened"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2045
+msgid "Icon when accordion item is closed"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2072
+msgid "Insert an icon into your content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2081
+msgid "Select custom icon color."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2104
+msgid "Add a text to the icon"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2112
+msgid "Text position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2141
+msgid "Add a link"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2142
+msgid "Type a http:// address"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2150
+msgid "Target window"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2166
+msgid "Enable smooth scroll to page section."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2213
+msgid "Showcase clients logos"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2217
+msgid "Animated"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2218
+msgid "Animate the icons when you first view them"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2254
+msgid "Open links in new window"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2266 /compat/plugin-js-composer/config.
+#: php:2368
+msgid "Filter by Tags"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2299
+msgid "Showcase client testimonials"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2316
+msgid "By IDs"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2383 /compat/plugin-js-composer/config.
+#: php:3048 /compat/plugin-js-composer/config.php:3120
+msgid "Minimum items to show"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2400 /compat/plugin-js-composer/config.
+#: php:3057 /compat/plugin-js-composer/config.php:3129
+msgid "Maximum items to show"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2413
+msgid "Speed between slides"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2426 /compat/plugin-js-composer/config.
+#: php:3066
+msgid "Elements height"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2446
+msgid "Add pins with info"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2451
+msgid "Type of pin"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2471
+msgid "Choose the icon to display"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2531
+msgid "Insert a button in your content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2552
+msgid "Insert an animated number"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2574
+msgid "HTML Element"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2575
+msgid "What type of HTML tag to render. Default if span"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2600
+msgid "Font Weight"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2622
+msgid "Visibility"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2627
+msgid "Alter content based on screen size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2634
+msgid "Visibility Type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2662
+msgid "Content by user type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2667
+msgid "Restrict content based on user type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2675
+msgid "User Type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2676
+msgid "Show content for user type."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2702
+msgid "Insert a vertical gap in your content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2707
+msgid ""
+"Enter in the size of your gap. Pixels, ems, and percentages are all valid "
+"units of measurement."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2717 /compat/plugin-js-composer/config.
+#: php:2834 /compat/plugin-js-composer/config.php:4400 /compat/plugin-js-
+#: composer/config.php:4484 /compat/plugin-js-composer/config.php:4591
+#: compat/plugin-js-composer/config.php:4704 /compat/plugin-js-composer/config.
+#: php:4767 /compat/plugin-js-composer/config.php:4867
+msgid "Class"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2719 /compat/plugin-js-composer/config.
+#: php:2836 /compat/plugin-js-composer/config.php:4403 /compat/plugin-js-
+#: composer/config.php:4487 /compat/plugin-js-composer/config.php:4594
+#: compat/plugin-js-composer/config.php:4707 /compat/plugin-js-composer/config.
+#: php:4770 /compat/plugin-js-composer/config.php:4870
+msgid "A class to add to the element for CSS referrences."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2724 /compat/plugin-js-composer/config.
+#: php:2825
+msgid "Unique id to add to the element for CSS referrences"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2753
+msgid "Insert a vertical divider in your content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2767
+msgid "The type of the divider."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2773
+msgid "Double border"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2779
+msgid "Have the divider double lined."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2817
+msgid "Text"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2819
+msgid "This text wil show inside the divider"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2876 /compat/plugin-js-composer/config.
+#: php:3036
+msgid "Layout"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2905
+msgid "Show Layout Switcher"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2918
+msgid "Switcher Layouts"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2934
+msgid "Show Thumbnail image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2954
+msgid "Show post meta"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2967
+msgid "Inline post meta"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2984
+msgid "Show post excerpt"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:2997
+msgid "Show post footer"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3088
+msgid "Scroll effect"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3146
+msgid "Context"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3174
+msgid "Insert portfolio items"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3180
+msgid "Display type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3192
+msgid "Title style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3218
+msgid "Items to show"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3227
+msgid "Display pagination. Only if is the case it will be showed"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3239
+msgid "Show filter on top with categories"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3251
+msgid "Display Subtitle for each item"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3263
+msgid "Images size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3272
+msgid "Show from Category"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3281
+msgid "Exclude categories"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3329
+msgid "Insert search form"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3336
+msgid "Form Style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3348
+msgid "Form Type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3361
+msgid "Search context"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3370 /compat/plugin-js-composer/config.
+#: php:3405
+msgid "Placeholder"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3373 /compat/plugin-js-composer/config.
+#: php:3408
+msgid "Placeholder to show when the input is empty"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3386
+msgid "bbPress Header Search"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3389
+msgid "bbPress"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3396
+msgid "Forum ID"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3399
+msgid ""
+"Enter a Forum ID to search just in that forum. Leave blank to search in all "
+"forums "
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3414
+msgid "Button text color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3423
+msgid "Button background color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3437
+msgid "Count Posts"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3447
+msgid "Post type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3450
+msgid ""
+"Enter a post type to count for. This should be something like: post, page or "
+"portfolio "
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3460
+msgid "Let it Snow"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3470
+msgid "Where the snowing effect should happen"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3476
+msgid ""
+"Add beautiful snow effect. Let it snow only in the container column element "
+"or activate it for the whole site. "
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3487
+msgid "Pricing Table"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3492
+msgid "Easy to add pricing tables"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3502
+msgid "Columns"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3510
+msgid "Number of pricing table columns."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3522
+msgid "Choose a different style."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3529
+msgid "Custom Heading background"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3538
+msgid "Custom Price background"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3547
+msgid "Custom Text color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3560
+msgid "Pricing table item"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3582
+msgid "Price"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3591
+msgid "Popular column?"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3597
+msgid "Shows this column with a different style"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3612
+msgid "Features list"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3620
+msgid "Button label"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3626
+msgid "URL (Link)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3628
+msgid "Add link to button"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3639
+msgid "Galaxy Particles"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3644
+msgid "Add nice background connected particles"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3651
+msgid "Particles number"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3660
+msgid "Particles size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3669
+msgid "Particles color"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3680
+msgid "Kleo Login"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3685
+msgid "Login / Lost Password Forms (Hidden from logged in users.)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3691
+msgid "Show"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3697
+msgid "Initial form to show."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3703
+msgid "Login Title"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3706 /compat/plugin-js-composer/config.
+#: php:3715
+msgid "Enter the login title."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3712
+msgid "Lost Password Title"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3721
+msgid "Login Link"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3724 /compat/plugin-js-composer/config.
+#: php:3733
+msgid ""
+"Use # or custom url. Using # will allow inline switching between login and "
+"lost password boxes."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3730
+msgid "Lost Password Link"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3739
+msgid "Register Link"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3742
+msgid ""
+"Leave empty for WordPress or BuddyPress default url. Use 'hide' or custom "
+"url. Using 'hide will allow you to hide any registration information."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3756 /compat/plugin-js-composer/config.
+#: php:4070
+msgid ""
+"Form style. If you don't use this form with a background behind then you "
+"should set the form style to 'Theme Default'"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3762 /compat/plugin-js-composer/config.
+#: php:4076
+msgid "Input Size"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3768 /compat/plugin-js-composer/config.
+#: php:4082
+msgid "Form input sizes."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3775 /compat/plugin-js-composer/config.
+#: php:4089
+msgid "Show for logged in users too"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3792
+msgid "Kleo Social Sharing"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3797
+msgid "Adds Kleo Likes and social sharing.)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3807
+msgid "Kleo Magic Container"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3812
+msgid "Very customizable container element"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3821
+msgid "CSS Position"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3829 /compat/plugin-js-composer/config.
+#: php:3843
+msgid "Set the content position."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3836
+msgid "CSS Float"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3850
+msgid "CSS Top"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3853
+msgid "Css Top value. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3860
+msgid "CSS Right"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3863
+msgid "Css RIGHT value. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3870
+msgid "CSS Bottom"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3873
+msgid "Css BOTTOM value. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3880
+msgid "CSS Left"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3883
+msgid "Css LEFT value. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3890
+msgid "Min. width"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3893
+msgid "Force a minimum width. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3910
+msgid "Fixed width"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3913
+msgid "Force a fixed width. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3930
+msgid "Content vertical position in container"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3937
+msgid ""
+"Set the content position related to the container. Works when you set a "
+"custom container height."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3944
+msgid "Center text horizontally"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3949
+msgid "Enabling this option will center any text inside the container"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3956
+msgid "Center the container box horizontally"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3961
+msgid "Works when you set a custom container width."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3967
+msgid "Full height content"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3972
+msgid ""
+"Stretch the content to the container height. Works when you set a custom "
+"container height."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3978
+msgid "Border Radius"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3981
+msgid "Set container border radius. Use px|em|%|pt|cm"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:3994
+msgid "Css"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4041
+msgid "Kleo Register"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4046
+msgid "Register Form (Hidden from logged in users.)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4053
+msgid "Register Title"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4056
+msgid "Enter the register title."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4107
+msgid "NEWS Focus"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4112
+msgid "News Posts with big left image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4118
+msgid "Section name"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4121
+msgid "Enter a section name."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4127
+msgid "Featured posts on left side"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4130
+msgid "Enter the number of post to highlight and show big on the left column."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4134 /compat/plugin-js-composer/config.
+#: php:4170 /compat/plugin-js-composer/config.php:4197
+msgid "Build your query"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4140
+msgid ""
+"If you refine your posts by category then they will show as tabbed content "
+"in the shortcode"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4152
+msgid "NEWS Highlight"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4157
+msgid "News Posts with first post big image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4163
+msgid "Featured posts to show big"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4166
+msgid "Enter the number of post to highlight and show with bigger thumb."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4176
+msgid ""
+"If you refine your posts by category then the first category will show as a "
+"label on first post image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4188
+msgid "NEWS Ticker"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4193
+msgid "Auto Scrolling posts"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4203
+msgid "Refine your posts by specific filters"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4215
+msgid "Members Count"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4218 /compat/plugin-js-composer/config.
+#: php:4234 /compat/plugin-js-composer/config.php:4284 /compat/plugin-js-
+#: composer/config.php:4419 /compat/plugin-js-composer/config.php:4503
+#: compat/plugin-js-composer/config.php:4608 /compat/plugin-js-composer/config.
+#: php:4722 /compat/plugin-js-composer/config.php:4787 /compat/plugin-js-
+#: composer/config.php:4882 /compat/plugin-js-composer/config.php:4970
+msgid "BuddyPress"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4220
+msgid "Show the total member count."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4231
+msgid "Members Statistics"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4241
+msgid "Field Name"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4244
+msgid "Profile field name."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4250
+msgid "Field Value"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4253
+msgid "Profile field value."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4259
+msgid "Online?"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4264
+msgid "Only include online members."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4267
+msgid "Show the member count by profile field value."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4281
+msgid "Members Carousel"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4291 /compat/plugin-js-composer/config.
+#: php:4426 /compat/plugin-js-composer/config.php:4510
+msgid "Member Type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4294 /compat/plugin-js-composer/config.
+#: php:4429 /compat/plugin-js-composer/config.php:4513
+msgid "The type of members to display."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4300 /compat/plugin-js-composer/config.
+#: php:4435 /compat/plugin-js-composer/config.php:4519
+msgid "Filter"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4310 /compat/plugin-js-composer/config.
+#: php:4445 /compat/plugin-js-composer/config.php:4529
+msgid "Filter the members by."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4316 /compat/plugin-js-composer/config.
+#: php:4451
+msgid "Number of members"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4319 /compat/plugin-js-composer/config.
+#: php:4454
+msgid "How many members to get."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4325 /compat/plugin-js-composer/config.
+#: php:4641
+msgid "Minimum Items"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4328 /compat/plugin-js-composer/config.
+#: php:4644
+msgid "Minimum number of items to show on the screen"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4334 /compat/plugin-js-composer/config.
+#: php:4650
+msgid "Maximum Items"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4337 /compat/plugin-js-composer/config.
+#: php:4653
+msgid "Maximum number of items to show on the screen"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4343 /compat/plugin-js-composer/config.
+#: php:4659
+msgid "Image Type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4349 /compat/plugin-js-composer/config.
+#: php:4665
+msgid "The size to get from buddypress"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4355 /compat/plugin-js-composer/config.
+#: php:4460 /compat/plugin-js-composer/config.php:4566 /compat/plugin-js-
+#: composer/config.php:4683 /compat/plugin-js-composer/config.php:4755
+#: compat/plugin-js-composer/config.php:4842
+msgid "Avatar type"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4361 /compat/plugin-js-composer/config.
+#: php:4466 /compat/plugin-js-composer/config.php:4572 /compat/plugin-js-
+#: composer/config.php:4689 /compat/plugin-js-composer/config.php:4761
+#: compat/plugin-js-composer/config.php:4848
+msgid "Rounded or square avatar"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4367 /compat/plugin-js-composer/config.
+#: php:4695
+msgid "Image Width"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4370
+msgid "The size of the member image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4376 /compat/plugin-js-composer/config.
+#: php:4671
+msgid "Auto play"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4382 /compat/plugin-js-composer/config.
+#: php:4677
+msgid "If the carousel should play automatically"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4388 /compat/plugin-js-composer/config.
+#: php:4472
+msgid "Online status"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4394 /compat/plugin-js-composer/config.
+#: php:4478
+msgid "Show online status"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4416
+msgid "Members Masonry"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4500
+msgid "Members Grid"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4535 /compat/plugin-js-composer/config.
+#: php:4811
+msgid "Maximum members"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4538
+msgid "How many members you want to display."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4544
+msgid "Members per line"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4560
+msgid "How many members to show per line"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4585 /compat/plugin-js-composer/config.
+#: php:4861
+msgid "Elements will appear animated"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4605
+msgid "Groups Carousel"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4626 /compat/plugin-js-composer/config.
+#: php:4740 /compat/plugin-js-composer/config.php:4805
+msgid "The type of groups to display."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4632 /compat/plugin-js-composer/config.
+#: php:4746
+msgid "Number of groups"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4635 /compat/plugin-js-composer/config.
+#: php:4749
+msgid "How many groups to get."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4698
+msgid "The size of the group image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4719
+msgid "Groups Masonry"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4784
+msgid "Groups Grid"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4814
+msgid "How many groups you want to display."
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4820
+msgid "Groups per line"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4836
+msgid "How many groups to show per line"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4854
+msgid "Animatione"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4879
+msgid "Activity Stream"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4889
+msgid "Display"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4899
+msgid "The type of activity to show"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4905
+msgid "Number"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4908
+msgid "How many activity streams to show"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4914
+msgid "Show post update form"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4920
+msgid "Shows the form to post a new update"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4926
+msgid "Bottom button"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4932
+msgid "Show a button with link to the activity page"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4938
+msgid "Activity Button Label"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4945
+msgid "Button text"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4951
+msgid "Activity Button Link"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4958
+msgid "Put here the link to your activity page"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:4967
+msgid "Activity Page"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5281 /compat/plugin-js-composer/config.
+#: php:5375
+msgid "Fontello(theme default)"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5325
+msgid "Alert"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5326
+msgid "Info"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5327
+msgid "Tick"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5328
+msgid "Explanation"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5329
+msgid "Address book"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5330
+msgid "Alarm clock"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5331
+msgid "Anchor"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5332
+msgid "Application Image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5333
+msgid "Arrow"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5334
+msgid "Asterisk"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5335
+msgid "Hammer"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5336
+msgid "Balloon"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5337
+msgid "Balloon Buzz"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5338
+msgid "Balloon Facebook"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5339
+msgid "Balloon Twitter"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5340
+msgid "Battery"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5341
+msgid "Binocular"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5342
+msgid "Document Excel"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5343
+msgid "Document Image"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5344
+msgid "Document Music"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5345
+msgid "Document Office"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5346
+msgid "Document PDF"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5347
+msgid "Document Powerpoint"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5348
+msgid "Document Word"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5349
+msgid "Bookmark"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5350
+msgid "Camcorder"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5351
+msgid "Camera"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5352
+msgid "Chart"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5353
+msgid "Chart pie"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5354
+msgid "Clock"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5355
+msgid "Fire"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5356
+msgid "Heart"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5357
+msgid "Mail"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5358
+msgid "Play"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5359
+msgid "Shield"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5360
+msgid "Video"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5373
+msgid "Icon library"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5376
+msgid "Font Awesome"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5377
+msgid "Open Iconic"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5378
+msgid "Typicons"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5379
+msgid "Entypo"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5380
+msgid "Linecons"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5381
+msgid "Pixel"
+msgstr ""
+
+#: compat/plugin-js-composer/config.php:5384
+msgid "Select icon library."
+msgstr ""
+
+#: shortcodes/shortcodes.php:1423
+msgid "Search"
+msgstr ""
+
+#: shortcodes/shortcodes.php:1442
+msgid "You need to install bbPress plugin to enable this shortcode!"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:16
+msgid "Log in with your credentials"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:17
+msgid "Forgot your details?"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:68
+msgid "or"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:70
+msgid "Create an account"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:77 /shortcodes/templates/kleo_register.
+#: php:60 /shortcodes/templates/kleo_register.php:80
+msgid "Username"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:78
+msgid "Password"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:80
+msgid "Sign in"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:82
+msgid "Remember me"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:84
+msgid "Lost your password?"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:99
+msgid "Username or Email"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:101
+msgid "Reset Password"
+msgstr ""
+
+#: shortcodes/templates/kleo_login.php:102
+msgid "I remember my details"
+msgstr ""
+
+#: shortcodes/templates/kleo_news_ticker.php:13
+msgid "Visual composer must be installed"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:15
+msgid "Create Account"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:63
+msgid "Your full name"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:67 /shortcodes/templates/kleo_register.
+#: php:83
+msgid "Your email"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:71
+msgid "Desired password"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:74
+msgid "Confirm password"
+msgstr ""
+
+#: shortcodes/templates/kleo_register.php:87
+msgid "Register"
+msgstr ""
+
+#: shortcodes/templates/kleo_social_share.php:24
+msgid "Share this"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_page.php:37
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:119
+msgid ""
+"This shortcode must have Buddypress installed and activity component "
+"activated."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:50
+msgid "View Profile"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:68
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:68
+msgid "View Conversation"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:75
+msgid "Mark as Favorite"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:77
+msgid "Remove Favorite"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:96
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:96
+msgid "View"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_activity_stream.php:106
+msgid "Right now there is no activity to show"
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_carousel.php:72
+#: shortcodes/templates/buddypress/kleo_bp_groups_masonry.php:89
+msgid "There are no groups to display. Please try again soon."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_carousel.php:78
+#: shortcodes/templates/buddypress/kleo_bp_groups_grid.php:71
+#: shortcodes/templates/buddypress/kleo_bp_groups_masonry.php:95
+#: shortcodes/templates/buddypress/kleo_bp_members_carousel.php:79
+#: shortcodes/templates/buddypress/kleo_bp_members_grid.php:69
+#: shortcodes/templates/buddypress/kleo_bp_members_masonry.php:84
+msgid "This shortcode must have Buddypress installed to work."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_grid.php:66
+msgid "No groups were found at the moment. Please come back later."
+msgstr ""
+
+#: shortcodes/templates/buddypress/kleo_bp_groups_masonry.php:53
+#, php-format
+msgid "active %s"
+msgstr ""
