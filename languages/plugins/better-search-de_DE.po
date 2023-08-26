@@ -1,0 +1,743 @@
+# Translation of Plugins - Better Search - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Better Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-05 17:19:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Better Search - Stable (latest release)\n"
+
+#: includes/general-template.php:128
+msgid "There is no excerpt because this is a protected post."
+msgstr "Es gibt keinen Textauszug, weil dies ein geschützter Beitrag ist."
+
+#: includes/admin/tools.php:145
+msgid "Other tools"
+msgstr "Weitere Werkzeuge"
+
+#: includes/admin/tools.php:147
+msgid "Delete old settings"
+msgstr "Veraltete Einstellungen löschen"
+
+#: includes/admin/tools.php:147
+msgid "This will delete the settings before v2.5.x. Proceed?"
+msgstr "Löschen der Einstellungen vor Version 2.5.x. Fortfahren?"
+
+#: includes/admin/tools.php:102
+msgid "Reset database"
+msgstr "Datenbank zurücksetzen"
+
+#: includes/admin/admin.php:45
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: includes/admin/admin.php:45 includes/admin/tools.php:67
+msgid "Better Search Tools"
+msgstr "Better Search Werkzeuge"
+
+#: includes/admin/tools.php:104
+msgid "Reset Popular searches table"
+msgstr "Tabelle „Beliebte Suchvorgänge“ zurücksetzen"
+
+#: includes/admin/tools.php:105
+msgid "Reset Daily Popular searches table"
+msgstr "Tabelle der täglich beliebtesten Suchvorgänge zurücksetzen"
+
+#: includes/admin/tools.php:85
+msgid "Recreate FULLTEXT index"
+msgstr "FULLTEXT-Index neu erstellen"
+
+#: includes/admin/tools.php:32
+msgid "FULLTEXT index has been recreated"
+msgstr "FULLTEXT-Index wurde neu erstellt"
+
+#: includes/admin/admin.php:33 includes/admin/admin.php:94
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/modules/class-better-search-heatmap.php:55
+#: includes/modules/class-bsearch-search-box.php:102
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/help-tab.php:59 includes/admin/settings-page.php:126
+msgid "Search"
+msgstr "Suche"
+
+#: includes/admin/admin.php:116 includes/admin/sidebar.php:61
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/sidebar.php:56
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/admin/admin.php:118
+msgid "Contribute"
+msgstr "Mitwirken"
+
+#: includes/admin/admin.php:117
+msgid "Donate"
+msgstr "Spenden"
+
+#: includes/admin/sidebar.php:66
+msgid "Reviews"
+msgstr "Rezensionen"
+
+#: includes/admin/sidebar.php:76
+msgid "Other plugins"
+msgstr "Weiter PlugIns"
+
+#: includes/admin/sidebar.php:30
+msgid "Enter amount in USD"
+msgstr "Geben Sie einen Betrag ein (in USD)"
+
+#: includes/admin/sidebar.php:81
+msgid "Ajay's blog"
+msgstr "Ajay's Blog"
+
+#: includes/admin/admin-dashboard.php:57 includes/admin/admin.php:38
+msgid "Popular Searches"
+msgstr "Häufig gesucht"
+
+#. Plugin Name of the plugin
+#: includes/admin/admin.php:30
+msgid "Better Search"
+msgstr "Better Search"
+
+#: includes/admin/sidebar.php:21
+msgid "Support the development"
+msgstr "Unterstütze uns bei der Entwicklung"
+
+#: includes/admin/default-settings.php:142
+msgid "Number of Search Results per page"
+msgstr "Anzahl von Treffern pro Seite"
+
+#: includes/admin/default-settings.php:319
+msgid "Length of excerpt (in words)"
+msgstr "Länge des Textauszugs (in Worten)"
+
+#: includes/admin/default-settings.php:512
+msgid "Custom CSS"
+msgstr "Individuelles CSS"
+
+#: includes/admin/sidebar.php:28
+msgid "Donation for Better Search"
+msgstr "Spenden für Better Search"
+
+#: includes/admin/admin-dashboard.php:58 includes/admin/admin.php:41
+msgid "Daily Popular Searches"
+msgstr "Täglich häufige Suchen"
+
+#: includes/admin/sidebar.php:51
+msgid "Better Search plugin homepage"
+msgstr "Better Search PlugIn-Homepage"
+
+#: includes/admin/default-settings.php:333
+msgid "Filter these words"
+msgstr "Filtere diese Wörter"
+
+#. translators: 1: Opening a tag and Better Search, 2: Closing a tag.
+#: includes/utilities.php:363
+msgid "Powered by %1$s plugin%2$s"
+msgstr "Powered by %1$s plugin%2$s"
+
+#: includes/utilities.php:46
+msgid "Your search query consists banned words. Please remove these and try again."
+msgstr "Deine Abfrage besteht aus verbotenen Wörtern. Bitte entferne diese und versuche es erneut."
+
+#: includes/admin/sidebar.php:94
+msgid "Follow me"
+msgstr "Folge mir"
+
+#: includes/admin/sidebar.php:71
+msgid "Github repository"
+msgstr "Github repository"
+
+#: includes/admin/sidebar.php:45
+msgid "Quick links"
+msgstr "Quick-Links"
+
+#: includes/admin/sidebar.php:34
+msgid "Send your donation to the author of"
+msgstr "Sende deine Spende an den Autor von"
+
+#: includes/admin/tools.php:275
+msgid "Please upload a file to import"
+msgstr "Bitte lade eine Datei zum Importieren hoch"
+
+#: includes/admin/tools.php:269
+msgid "Please upload a valid .json file"
+msgstr "Bitte lade eine gültige .json-Datei hoch"
+
+#: includes/admin/tools.php:150
+msgid "From v2.2.x, Better Search stores the settings in a new key in the database. This will delete the old settings for the current blog. It is recommended that you do this at the earliest after upgrade. However, you should do this only if you are comfortable with the new settings."
+msgstr "Ab v2.2.x speichert Better Search die Einstellungen in einem neuen Schlüssel in der Datenbank. Dadurch werden die alten Einstellungen für den aktuellen Blog gelöscht. Es wird empfohlen, dass du dies frühestmöglich nach dem Upgrade tust. Du solltest dies jedoch nur tun, wenn du mit den neuen Einstellungen vertraut bist."
+
+#: includes/admin/tools.php:137
+msgid "Import Settings"
+msgstr "Einstellungen importieren"
+
+#: includes/admin/tools.php:131
+msgid "Import the plugin settings from a .json file. This file can be obtained by exporting the settings on another site using the form above."
+msgstr "Importiere die Plugin-Einstellungen aus einer .json-Datei. Diese Datei kann man erhalten, indem man die Einstellungen auf einer anderen Website mithilfe des obigen Formulars exportiert."
+
+#: includes/admin/tools.php:122
+msgid "Export Settings"
+msgstr "Einstellungen exportieren"
+
+#: includes/admin/tools.php:38
+msgid "Better Search popular searches table reset"
+msgstr "Better Search populäre Suchanfragen Tabelle zurücksetzen"
+
+#: includes/admin/class-better-search-statistics.php:128
+msgid "Popular Searches per page"
+msgstr "Populäre Suchen pro Seite"
+
+#: includes/admin/class-better-search-statistics.php:103
+msgid "Search Table"
+msgstr "Tabelle durchsuchen"
+
+#: includes/admin/class-better-search-statistics-table.php:390
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/admin/class-better-search-statistics-table.php:348
+msgid "Are you sure you want to do this"
+msgstr "Bist du sicher, dass du das tun möchtest"
+
+#: includes/admin/class-better-search-statistics-table.php:301
+msgid "Delete search term"
+msgstr "Suchbegriff löschen"
+
+#: includes/admin/class-better-search-statistics-table.php:267
+msgid "Daily searches"
+msgstr "Tägliche Suchen"
+
+#: includes/admin/class-better-search-statistics-table.php:266
+msgid "Total searches"
+msgstr "Gesamte Suchen"
+
+#: includes/admin/class-better-search-statistics-table.php:265
+msgid "Search term"
+msgstr "Suchbegriff"
+
+#: includes/admin/class-better-search-statistics-table.php:243
+msgid "Delete"
+msgstr "Löschen"
+
+#: includes/admin/class-better-search-statistics-table.php:242
+msgid "View"
+msgstr "Anzeigen"
+
+#: includes/admin/class-better-search-statistics-table.php:193
+msgid "No popular searches available."
+msgstr "Keine populären Suchen verfügbar."
+
+#: includes/admin/class-better-search-statistics-table.php:41
+msgid "popular_searches"
+msgstr "popular_searches"
+
+#: includes/admin/class-better-search-statistics-table.php:40
+msgid "popular_search"
+msgstr "popular_search"
+
+#: includes/admin/settings-page.php:646
+msgctxt "tag delimiter"
+msgid ","
+msgstr ","
+
+#: includes/admin/tools.php:118
+msgid "Export the plugin settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr "Exportiere die Plugin-Einstellungen für diese Website als .json-Datei. Damit kannst du die Konfiguration einfach in eine andere Website importieren."
+
+#: includes/admin/tools.php:116
+msgid "Export/Import settings"
+msgstr "Einstellungen exportieren/importieren"
+
+#: includes/admin/tools.php:108
+msgid "This will reset the Better Search tables. If you are running Better Search on multisite then it will delete the popular posts across the entire network. This cannot be reversed. Make sure that your database has been backed up before proceeding"
+msgstr "Dadurch werden die Better-Search-Tabellen zurückgesetzt. Wenn du Better Search auf einer Multisite ausführst, werden die populären Beiträge im gesamten Netzwerk gelöscht. Dies kann nicht rückgängig gemacht werden. Stelle sicher, dass deine Datenbank gesichert wurde, bevor du weitermachst."
+
+#: includes/admin/tools.php:105
+msgid "Are you sure you want to reset the daily popular searches?"
+msgstr "Bist du sicher, dass du die täglichen populären Suchen zurücksetzen willst?"
+
+#: includes/admin/tools.php:104
+msgid "Are you sure you want to reset the popular searches?"
+msgstr "Bist du sicher, dass du die beliebten Suchen zurücksetzen willst?"
+
+#: includes/admin/tools.php:92
+msgid "If the Recreate Index button fails, please run the following queries in phpMyAdmin or Adminer"
+msgstr "Wenn der „Index wiederherstellen“-Button fehlschlägt, führe bitte die folgenden Abfragen in phpMyAdmin oder Adminer aus"
+
+#: includes/admin/tools.php:90
+msgid "Recreate the FULLTEXT index that Better Search uses to get the relevant search results. This might take a lot of time to regenerate if you have a lot of posts."
+msgstr "Erstelle den VOLLTEXT-Index neu, den Better Search verwendet, um die relevanten Suchergebnisse zu erhalten. Bei vielen Beiträgen kann es sehr lange dauern, den Index neu zu erstellen."
+
+#: includes/admin/tools.php:87
+msgid "Are you sure you want to recreate the index?"
+msgstr "Bist du sicher, dass du den Index neu erstellen willst?"
+
+#: includes/admin/tools.php:87
+msgid "Recreate Index"
+msgstr "Index neu erstellen"
+
+#: includes/admin/tools.php:82
+msgid "Clear the Better Search cache. This will also be cleared automatically when you save the settings page."
+msgstr "Lösche den Cache von Better Search. Dieser wird auch automatisch geleert, wenn du die Einstellungsseite speicherst."
+
+#: includes/admin/tools.php:77 includes/admin/tools.php:79
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+#: includes/admin/tools.php:61
+msgid "Settings have been imported successfully"
+msgstr "Einstellungen wurden erfolgreich importiert"
+
+#: includes/admin/tools.php:55
+msgid "Old settings key has been deleted"
+msgstr "Alter Einstellungsschlüssel wurde gelöscht"
+
+#: includes/admin/tools.php:52
+msgid "Old settings key does not exist"
+msgstr "Der alte Einstellungsschlüssel existiert nicht"
+
+#: includes/admin/tools.php:44
+msgid "Better Search daily searches table reset"
+msgstr "Tägliche-Suchen-Tabelle zurücksetzen"
+
+#: includes/admin/help-tab.php:51
+msgid "This screen provides the basic settings for configuring Better Search."
+msgstr "Dieser Bildschirm enthält die Grundeinstellungen für die Konfiguration von Better Search."
+
+#: includes/admin/help-tab.php:49 includes/admin/help-tab.php:120
+#: includes/admin/settings-page.php:125
+msgid "General"
+msgstr "Allgemeines"
+
+#. translators: 1: Github Issues link, 2: Github page.
+#: includes/admin/help-tab.php:40 includes/admin/help-tab.php:111
+msgid "<a href=\"%1$s\">Post an issue</a> on <a href=\"%2$s\">GitHub</a> (bug reports only)."
+msgstr "<a href=\"%1$s\">Melde einen Fehler</a> auf <a href=\"%2$s\">GitHub</a> (nur Fehlerberichte)."
+
+#. translators: 1: Forum link.
+#: includes/admin/help-tab.php:37 includes/admin/help-tab.php:108
+msgid "Support queries should be posted in the <a href=\"%1$s\">WordPress.org support forums</a>."
+msgstr "Supportanfragen sollten in den <a href=\"%1$s\">WordPress.org-Supportforen</a> veröffentlicht werden."
+
+#. translators: 1: Support link.
+#: includes/admin/help-tab.php:35 includes/admin/help-tab.php:106
+msgid "For more information or how to get support visit the <a href=\"%1$s\">WebberZone support site</a>."
+msgstr "Für weitere Informationen oder Unterstützung besuche die <a href=\"%1$s\">WebberZone-Supportwebsite </a>."
+
+#: includes/admin/save-settings.php:119
+msgid "Settings updated."
+msgstr "Einstellungen aktualisiert."
+
+#: includes/admin/save-settings.php:51
+msgid "Settings have been reset to their default values. Reload this page to view the updated settings"
+msgstr "Die Einstellungen wurden auf ihre Standardwerte zurückgesetzt. Lade diese Seite neu, um die aktualisierten Einstellungen anzuzeigen"
+
+#. translators: 1: Opening a tag, 2: Closing a tag, 3: Opening code tage, 4.
+#. Closing code tag.
+#: includes/admin/default-settings.php:514
+msgid "Do not include %3$sstyle%4$s tags. Check out the %1$sFAQ%2$s for available CSS classes to style."
+msgstr "Verwende keine %3$sstyle%4$s-Tags. Schau dir die %1$sFAQ%2$s für verfügbare CSS-Klassen zum Stylen an."
+
+#: includes/admin/default-settings.php:475
+msgid "Add nofollow to links"
+msgstr "Nofollow zu Links hinzufügen"
+
+#: includes/admin/default-settings.php:468
+msgid "Open links in new window"
+msgstr "Links in einem neuen Fenster öffnen?"
+
+#: includes/admin/default-settings.php:461
+msgid "Text to include after each search term"
+msgstr "Text, der nach jedem Suchbegriff eingefügt werden soll"
+
+#: includes/admin/default-settings.php:454
+msgid "Text to include before each search term"
+msgstr "Vor jedem Suchbegriff einzufügender Text"
+
+#: includes/admin/default-settings.php:443
+msgid "Color of most popular search term"
+msgstr "Farbe des beliebtesten Suchbegriffs"
+
+#: includes/admin/default-settings.php:432
+msgid "Color of least popular search term"
+msgstr "Farbe des am wenigsten gängigen Suchbegriffs"
+
+#: includes/admin/default-settings.php:340
+msgid "Filter whole words only"
+msgstr "Nur ganze Wörter filtern"
+
+#: includes/admin/default-settings.php:334
+msgid "Words in this list will be stripped out of the search results. Enter these as a comma-separated list."
+msgstr "Die Wörter in dieser Liste werden aus den Suchergebnissen entfernt. Gib diese als kommagetrennte Liste ein."
+
+#: includes/admin/default-settings.php:263
+msgid "Highlight search terms"
+msgstr "Suchbegriffe hervorheben"
+
+#: includes/admin/default-settings.php:180
+msgid "Weight of the post content"
+msgstr "Gewichtung des Beitragsinhalts"
+
+#: includes/admin/default-settings.php:173
+msgid "Set this to a bigger number than the next option to prioritize the post title"
+msgstr "Setze diesen Wert auf eine größere Zahl als die nächste Option, um den Titel des Beitrags zu priorisieren"
+
+#: includes/admin/default-settings.php:172
+msgid "Weight of the title"
+msgstr "Gewichtung des Titels"
+
+#. translators: 1: Opening anchor tag, 2: Closing anchor tag,
+#: includes/admin/default-settings.php:166
+msgid "Limits relevancy matches but removes several limitations of NATURAL LANGUAGE mode. %1$sCheck the mySQL docs for further information on BOOLEAN indices%2$s"
+msgstr "Begrenzt die Relevanz von Übereinstimmungen, hebt aber einige Einschränkungen des Modus NATÜRLICHE SPRACHE auf. %1$sFür weitere Informationen über BOOLEAN Indices siehe mySQL docs%2$s"
+
+#: includes/admin/default-settings.php:164
+msgid "Activate BOOLEAN mode"
+msgstr "Den BOOLEAN-Modus aktivieren"
+
+#: includes/admin/default-settings.php:106
+msgid "Activating this option will convert the search counts into a number format based on the locale"
+msgstr "Wenn du diese Option aktivierst, werden die Suchergebnisse in ein Zahlenformat umgewandelt, das auf dem Gebietsschema basiert."
+
+#: includes/admin/default-settings.php:105
+msgid "Number format count"
+msgstr "Nummernformat-Anzahl"
+
+#: includes/admin/default-settings.php:99
+msgid "This is a recommended option to turn ON. Adds noindex,follow meta tag to the head of the page"
+msgstr "Dies ist eine zum Einschalten empfohlene Option. Sie fügt die noindex,follow Meta-Tags in den Kopf der Seite"
+
+#: includes/admin/default-settings.php:98
+msgid "Stop search engines from indexing search results pages"
+msgstr "Suchmaschinen davon abhalten, Suchergebnisseiten zu indizieren"
+
+#: includes/admin/default-settings.php:85
+msgid "If activated, Better Search will use the Transients API to cache the search results for 1 hour."
+msgstr "Wenn aktiviert, wird Better Search die Transients-API verwenden, um die Suchergebnisse 1 Stunde lang zwischenzuspeichern."
+
+#: includes/admin/default-settings.php:84
+msgid "Enable cache"
+msgstr "Cache aktivieren"
+
+#: includes/admin/default-settings.php:78
+msgid "Disabling this option will stop searches made by editors from being tracked."
+msgstr "Das Deaktivieren dieser Option verhindert, dass Suchanfragen von Editoren verfolgt werden können."
+
+#: includes/admin/default-settings.php:77
+msgid "Track editor user group searches"
+msgstr "Verfolge die Benutzergruppensuche der Editoren"
+
+#: includes/admin/default-settings.php:71
+msgid "Disabling this option will stop searches made by admins from being tracked."
+msgstr "Das Deaktivieren dieser Option verhindert, dass Suchanfragen von Admins verfolgt werden können."
+
+#: includes/admin/default-settings.php:70
+msgid "Track admin searches"
+msgstr "Admin-Suchanfragen verfolgen"
+
+#: includes/admin/default-settings.php:64
+msgid "If you turn this off, then the plugin will no longer track and display the popular search terms."
+msgstr "Wenn du dies ausschaltest, dann wird das Plugin beliebte Suchbegriffe nicht mehr anzeigen."
+
+#: includes/admin/default-settings.php:63
+msgid "Enable search tracking"
+msgstr "Aktiviere die Suchverfolgung"
+
+#: includes/admin/default-settings.php:57
+msgid "Complete integration with your theme. Enabling this option will ignore better-search-template.php. It will continue to display the search results sorted by relevance, although it won't display the percentage relevance."
+msgstr "Vollständige Integration mit deinem Theme. Wenn du diese Option aktivierst, wird better-search-template.php ignoriert. Die Suchergebnisse werden weiterhin nach Relevanz sortiert angezeigt, allerdings wird die prozentuale Relevanz nicht angezeigt."
+
+#: includes/admin/default-settings.php:56
+msgid "Enable seamless integration"
+msgstr "Nahtlose Integration aktivieren"
+
+#: includes/admin/help-tab.php:52
+msgid "Enable tracking, seamless mode and the cache, configure basic tracker and uninstall settings."
+msgstr "Aktiviere das Tracking, den Nahtlos-Modus und den Cache, konfiguriere grundlegende Verfolgungs- und Deinstallationseinstellungen."
+
+#: includes/admin/settings-page.php:326
+msgid "Modified from default setting"
+msgstr "Von der Standardeinstellung abweichend geändert"
+
+#. translators: %s: Setting ID.
+#: includes/admin/settings-page.php:153
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "Die Callback-Funktion, die für die Einstellung <strong>%s</strong> verwendet wird, fehlt."
+
+#: includes/admin/settings-page.php:81
+msgid "Reset all settings"
+msgstr "Alle Einstellungen zurücksetzen"
+
+#: includes/admin/settings-page.php:79
+msgid "Do you really want to reset all these settings to their default values?"
+msgstr "Willst du wirklich alle diese Einstellungen auf die Standardwerte zurücksetzen?"
+
+#: includes/admin/settings-page.php:70
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: includes/admin/help-tab.php:123
+msgid "Clear the cache, reset the popular posts tables plus some miscellaneous fixes for older versions of Better Search."
+msgstr "Lösche den Cache, setze die Tabellen mit den beliebten Anfragen zurück, sowie einige andere Korrekturen für ältere Versionen von Better Search."
+
+#: includes/admin/help-tab.php:122
+msgid "This screen provides some tools that help maintain certain features of Better Search."
+msgstr "Dieser Bildschirm bietet einige Werkzeuge, die helfen, bestimmte Funktionen von Better Search beizubehalten."
+
+#: includes/admin/help-tab.php:82
+msgid "Choose for default set of styles or add your own custom CSS to tweak the display of the search results page."
+msgstr "Wähle einen Standardstil aus oder füge dein individuelles CSS hinzu, um die Anzeige der Suchergebnisseite zu optimieren."
+
+#: includes/admin/help-tab.php:81
+msgid "This screen provides options to control the look and feel of the search page."
+msgstr "Dieser Bildschirm bietet Optionen, um das Aussehen der Suchseite zu steuern."
+
+#: includes/admin/help-tab.php:79 includes/admin/settings-page.php:128
+msgid "Styles"
+msgstr "Stile"
+
+#: includes/admin/help-tab.php:72
+msgid "Configure title of the searches, period of trending searches, color and font sizes of the heatmap."
+msgstr "Konfiguriere den Titel der Suchen, den Zeitraum der Trend-Suchen, Farbe und Schriftgröße der Heatmap."
+
+#: includes/admin/help-tab.php:71
+msgid "This screen provides settings to tweak the output of the search heatmap to display popular searches."
+msgstr "Dieser Bildschirm bietet Einstellungen, um die Ausgabe der Such-Heatmap zu optimieren, um beliebten Suchanfragen anzuzeigen."
+
+#: includes/admin/help-tab.php:69 includes/admin/settings-page.php:127
+msgid "Heatmap"
+msgstr "Heatmap"
+
+#: includes/admin/help-tab.php:62
+msgid "Configure number of search results, enable FULLTEXT and BOOLEAN mode, tweak the weight of title and content and block words."
+msgstr "Konfiguriere die Anzahl der Suchergebnisse, aktiviere den FULLTEXT- und BOOLEAN-Modus, optimiere die Gewichtung von Titel und Inhalt und blockiere Wörter."
+
+#: includes/admin/help-tab.php:61
+msgid "This screen provides settings to tweak the search algorithm."
+msgstr "Dieser Bildschirm bietet Einstellungen, um den Suchalgorithmus zu optimieren."
+
+#: includes/admin/default-settings.php:158
+msgid "Disabling this option will no longer give relevancy based results"
+msgstr "Das Deaktivieren dieser Option führt nicht länger zu relevanzbasierten Ergebnissen."
+
+#: includes/admin/default-settings.php:157
+msgid "Enable mySQL FULLTEXT searching"
+msgstr "Aktiviere mySQL-VOLLTEXT-Suche aktivieren"
+
+#: includes/admin/default-settings.php:250
+msgid "This is a readonly field that is automatically populated based on the above input when the settings are saved. These might differ from the IDs visible in the Categories page which use the term_id. Better Search uses the term_taxonomy_id which is unique to this taxonomy."
+msgstr "Dies ist ein schreibgeschütztes Feld, das automatisch anhand der obigen Eingabe ausgefüllt wird, wenn die Einstellungen gespeichert werden. Diese können sich von den auf der Kategorien-Seite sichtbaren IDs unterscheiden, die die term_id verwenden. Better Search verwendet die term_taxonomy_id, die einzigartig für diese Taxonomie ist."
+
+#: includes/admin/default-settings.php:249
+msgid "Exclude category IDs"
+msgstr "Kategorie-IDs ausschließen"
+
+#: includes/admin/default-settings.php:238
+msgid "Comma separated list of category slugs. The field above has an autocomplete so simply start typing in the starting letters and it will prompt you with options. Does not support custom taxonomies."
+msgstr "Komma getrennte Liste der Kategorie-Titel. Das Feld oben hat eine automatische Vervollständigung, also fang einfach an, die Anfangsbuchstaben einzugeben, und es wird dir Optionen anbieten. Unterstützt keine individuellen Taxonomien."
+
+#: includes/admin/default-settings.php:237
+msgid "Exclude Categories"
+msgstr "Kategorien ausschließen"
+
+#: includes/admin/default-settings.php:231
+msgid "Enter a comma separated list of post/page/custom post type IDs e.g. 188,1024,50"
+msgstr "Gib eine kommagetrennte Liste von Beitrags-/Seiten-/Individuellen Beitragsseiten-IDs ein, z.B. 188,1024,50"
+
+#: includes/admin/default-settings.php:230
+msgid "Exclude post IDs"
+msgstr "Ausschließen von Beitrags-IDs"
+
+#: includes/admin/default-settings.php:224
+msgid "Enabling this option will remove password protected posts from the search results"
+msgstr "Wenn du diese Option aktivierst, werden passwortgeschützte Beiträge aus den Suchergebnissen entfernt."
+
+#: includes/admin/default-settings.php:223
+msgid "Exclude password protected posts"
+msgstr "Passwortgeschützte Beiträge ausschließen"
+
+#: includes/admin/default-settings.php:151
+msgid "Select which post types you want to include in the search results"
+msgstr "Wähle aus, welche Beitragsarten du in die Suchergebnisse aufnehmen möchtest"
+
+#: includes/admin/default-settings.php:150
+msgid "Post types to include"
+msgstr "Einzuschließende Beitragstypen"
+
+#: includes/admin/default-settings.php:143
+msgid "This is the maximum number of search results that will be displayed per page by default"
+msgstr "Dies ist die maximale Anzahl von Suchergebnissen, die standardmäßig pro Seite angezeigt werden"
+
+#: includes/admin/default-settings.php:113
+msgid "A nofollow link to the plugin is added as an extra list item to the list of popular searches. Not mandatory, but thanks if you do it!"
+msgstr "Ein nofollow-Link zum Plugin wird als zusätzlicher Listenpunkt zur Liste der beliebten Suchanfragen hinzugefügt. Nicht zwingend erforderlich, aber danke, wenn du es machst!"
+
+#: includes/admin/default-settings.php:112
+msgid "Link to Better Search plugin page"
+msgstr "Link zur Better Search Plugin-Seite"
+
+#: includes/deprecated.php:444
+msgid "No results."
+msgstr "Keine Ergebnisse."
+
+#: includes/deprecated.php:410
+msgid "Posted on: "
+msgstr "Veröffentlicht am:"
+
+#: includes/general-template.php:523
+msgid "Relevance:"
+msgstr "Relevanz:"
+
+#. translators: 1: Current page number, 2: Total pages
+#: includes/general-template.php:388
+msgid "Page <strong>%1$s</strong> of <strong>%2$s</strong>"
+msgstr "Seite <strong>%1$s</strong> von <strong>%2$s</strong>"
+
+#. translators: 1: First, 2: Last, 3: Number of rows
+#: includes/general-template.php:382
+msgid "Results <strong>%1$s</strong> - <strong>%2$s</strong> of <strong>%3$s</strong>"
+msgstr "Ergebnisse <strong>%1$s</strong> - <strong>%2$s</strong> von <strong>%3$s</strong>"
+
+#: includes/deprecated.php:37
+msgid "<h3>Popular Searches</h3>"
+msgstr "<h3>Beliebte Suchanfragen</h3>"
+
+#: includes/deprecated.php:38
+msgid "<h3>Weekly Popular Searches</h3>"
+msgstr "<h3>Wöchentlich beliebte Suchanfragen</h3>"
+
+#. translators: 1: search query, 2: title of the page
+#: includes/template-redirect.php:116
+msgid "Search Results for \"%1$s\" | %2$s"
+msgstr "Suchergebnisse für \"%1$s\" | %2$s"
+
+#. Author URI of the plugin
+msgid "https://webberzone.com/"
+msgstr "https://webberzone.com/"
+
+#. Author of the plugin
+msgid "Ajay D'Souza"
+msgstr "Ajay D'Souza"
+
+#. Description of the plugin
+msgid "Replace the default WordPress search with a contextual search. Search results are sorted by relevancy ensuring a better visitor search experience."
+msgstr "Ersetze die standardmäßige WordPress-Suche durch eine kontextbezogene Suche. Die Suchergebnisse werden nach Relevanz sortiert, um ein besseres Sucherlebnis der Besucher zu gewährleisten."
+
+#. Plugin URI of the plugin
+msgid "https://webberzone.com/plugins/better-search/"
+msgstr "https://webberzone.com/plugins/better-search/"
+
+#: includes/admin/default-settings.php:424
+msgid "Font size of most popular search term"
+msgstr "Schriftgröße des beliebtesten Suchbegriffs"
+
+#: includes/admin/default-settings.php:416
+msgid "Font size of least popular search term"
+msgstr "Schriftgröße des am wenigsten benutzten Suchbegriffs"
+
+#: includes/admin/default-settings.php:408
+msgid "Number of search terms to display"
+msgstr "Anzahl der anzuzeigenden Suchbegriffe"
+
+#: includes/admin/default-settings.php:401
+msgid "This settings allows you to change the number of days for the currently trending heatmap. This used to be called Daily popular in previous versions."
+msgstr "Diese Einstellung erlaubt es dir, die Anzahl der Tage für die aktuelle Trend-Heatmap zu ändern. In früheren Versionen hieß sie Daily popular."
+
+#: includes/admin/default-settings.php:400
+msgid "Currently trending should contain searches of how many days?"
+msgstr "Der aktuelle Trend sollte Suchanfragen von wie vielen Tagen enthalten?"
+
+#: includes/admin/default-settings.php:395
+msgid "Currently trending searches:"
+msgstr "Momentan trendige Suchanfragen:"
+
+#: includes/admin/default-settings.php:392
+msgid "Heading of Daily Popular Searches"
+msgstr "Überschrift der täglichen beliebten Suchanfragen"
+
+#: includes/admin/default-settings.php:387
+msgid "Popular searches:"
+msgstr "Beliebte Suchanfragen:"
+
+#: includes/admin/default-settings.php:385
+#: includes/admin/default-settings.php:393
+msgid "Displayed before the list of the searches as a the master heading"
+msgstr "Wird vor der Liste der Suchanfragen als Hauptüberschrift angezeigt"
+
+#: includes/admin/default-settings.php:384
+msgid "Heading of Overall Popular Searches"
+msgstr "Überschrift der allgemein beliebtesten Suchanfragen"
+
+#: includes/admin/default-settings.php:378
+msgid "This option will display the heatmaps at the bottom of the search results page. Display popular searches to your visitors. Does not apply when Seamless mode is enabled."
+msgstr "Mit dieser Option werden die Heatmaps unten auf der Suchergebnisseite angezeigt. Zeige deinen Besuchern beliebte Suchanfragen an. Trifft nicht zu, wenn der Nahtlos-Modus aktiviert ist."
+
+#: includes/admin/default-settings.php:377
+msgid "Include heatmap on the search results"
+msgstr "Heatmap in die Suchergebnisse einschließen"
+
+#: includes/admin/default-settings.php:348
+msgid "When activated, this option will return no results if the search query includes any of the words in the box above. If you have seamless mode off, Better Search will display an error message. With seamless mode on, this will give a Nothing found message. You can customize it by editing your theme."
+msgstr "Wenn diese Option aktiviert ist, liefert sie keine Ergebnisse, wenn die Suchanfrage eines der Wörter aus dem obigen Feld enthält. Wenn du den Nahtlos-Modus ausgeschaltet hast, zeigt Better Search eine Fehlermeldung an. Wenn der nahtlose Modus eingeschaltet ist, wird die Meldung „Nichts gefunden“ angezeigt. Du kannst sie anpassen, indem du dein Theme editierst."
+
+#: includes/admin/default-settings.php:347
+msgid "Stop query on banned words filter"
+msgstr "Abfrage-Filter für verbotene Wörter stoppen"
+
+#: includes/admin/default-settings.php:341
+msgid "When activated, only whole words in the search query are filtered. Partial words are ignored. e.g. grow will not ban grown or grower."
+msgstr "Wenn aktiviert, werden nur ganze Wörter in der Suchanfrage gefiltert. Teilwörter werden ignoriert. z.B. grow wird grown oder grower nicht ausschließen."
+
+#. translators: 1: Better Search website, 2: Plugin reviews link.
+#: includes/admin/admin.php:66
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">Better Search</a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+msgstr "Danke, dass du <a href=\"%1$s\" target=\"_blank\" >Better Search</a> benutzt hast! Bitte <a href=\"%2$s\" target=\"_blank\">Bewertung uns</a> auf <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+
+#: includes/admin/admin.php:41
+msgid "Better Search Daily Popular Searches"
+msgstr "Better Search täglich beliebte Suchanfragen"
+
+#: includes/admin/admin.php:38
+#: includes/admin/class-better-search-statistics.php:78
+msgid "Better Search Popular Searches"
+msgstr "Better Search beliebte Suchanfragen"
+
+#: includes/admin/admin.php:30 includes/admin/admin.php:33
+#: includes/admin/settings-page.php:32
+msgid "Better Search Settings"
+msgstr "Better Search Einstellungen"
+
+#: includes/modules/class-better-search-heatmap.php:60
+msgid "Overall"
+msgstr "Gesamt"
+
+#: includes/modules/class-better-search-heatmap.php:36
+msgid "Popular Searches [Better Search]"
+msgstr "Beliebte Suchanfragen [Better Search]"
+
+#: includes/modules/class-bsearch-search-box.php:36
+msgid "Search Form [Better Search]"
+msgstr "Suchformular [Better Search]"
+
+#: includes/modules/heatmap.php:145 includes/modules/shortcode.php:43
+msgid "No searches made yet"
+msgstr "Noch keine Suchanfrage gestellt"
+
+#: includes/deprecated.php:454
+msgid "Please type in your search terms. Use descriptive words since this search is intelligent."
+msgstr "Bitte gib deine Suchbegriffe ein. Verwende beschreibende Wörter, da dies eine intelligente Suche ist."
+
+#: includes/admin/default-settings.php:181
+msgid "Set this to a bigger number than the previous option to prioritize the post content"
+msgstr "Setze diesen Wert auf eine größere Zahl als die vorherige Option, um den Inhalt des Beitrags zu priorisieren"

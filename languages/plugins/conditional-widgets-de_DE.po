@@ -1,0 +1,145 @@
+# Translation of Plugins - Conditional Widgets - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Conditional Widgets - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-07 21:41:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Conditional Widgets - Development (trunk)\n"
+
+#. Author of the plugin
+msgid "Jason LeMahieu and Kevin Graeme"
+msgstr "Jason LeMahieu and Kevin Graeme"
+
+#. Description of the plugin
+msgid "Grants users advanced control over which pages and categories each widget is displayed on"
+msgstr "Erweiterte die Kontrolle darüber, auf welchen Seiten und Kategorien jedes einzelne Widget angezeigt werden soll."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/conditional-widgets/"
+msgstr "http://de.wordpress.org/extend/plugins/conditional-widgets/"
+
+#. Plugin Name of the plugin
+msgid "Conditional Widgets"
+msgstr "Conditional Widgets"
+
+#: form.php:230
+msgid "Hide on Desktop"
+msgstr "Auf Desktop-Rechnern verbergen"
+
+#: form.php:224
+msgid "Hide on Mobile"
+msgstr "Auf Mobilgeräten verbergen"
+
+#: form.php:218
+msgid "Note: The following options will take precendence over those above."
+msgstr "Hinweis: Die folgenden Optionen haben Vorrang vor allen anderen."
+
+#: form.php:216
+msgid "Other Options"
+msgstr "Weitere Optionen"
+
+#: form.php:211
+msgid "Hide on Tag Archives"
+msgstr "Auf Tag-Archiv-Seite verbergen"
+
+#: form.php:205
+msgid "Hide on Date Archives"
+msgstr "Auf Datum-Archiv-Seite verbergen"
+
+#: form.php:199
+msgid "Hide on Author Archives"
+msgstr "Auf Autoren-Seite verbergen"
+
+#: form.php:191
+msgid "Hide when displaying Search Results"
+msgstr "Auf Suchergebnis-Seite verbergen"
+
+#: form.php:183
+msgid "Hide on 404s (Page Not Found)"
+msgstr "Auf 404 (Seite nicht gefunden) verbergen"
+
+#: form.php:175
+msgid "Hide on Posts Page (when using a static front page)"
+msgstr "Auf Beitragsseite ausblenden (bei statischen Startseiten)"
+
+#: form.php:169
+msgid "Special Page Options"
+msgstr "Optionen für Spezialseiten"
+
+#: form.php:154
+msgid "Include sub-pages automatically"
+msgstr "Unterseiten automatisch einbeziehen"
+
+#: form.php:147
+msgid "ALL pages (or select below)"
+msgstr "ALLE Seiten (oder wähle unten aus)"
+
+#: form.php:138
+msgid "on selected Pages:"
+msgstr "auf ausgewählten Seiten"
+
+#: form.php:135
+msgid "Page"
+msgstr "Seite"
+
+#: form.php:127
+msgid "Pages"
+msgstr "Seiten"
+
+#: form.php:114
+msgid "Include sub-%s automatically"
+msgstr "Unter-%s automatisch einbeziehen"
+
+#: form.php:108
+msgid "ALL %s (or select below)"
+msgstr "ALLE %s (oder wähle unten aus)"
+
+#: form.php:102
+msgid "on %1$s in selected %2$s:"
+msgstr "auf %1$s in ausgewählten %2$s:"
+
+#: form.php:99 form.php:135
+msgctxt "(Custom) Post Type will fill the placeholder"
+msgid "Enable %s Logic"
+msgstr "%s Logik aktivieren"
+
+#: form.php:96 form.php:131
+msgid "%s and %s"
+msgstr "%s und %s"
+
+#: form.php:56
+msgid "on Front Page"
+msgstr "auf der Startseite"
+
+#: form.php:51
+msgid "Select a combination of options to control on which sections of your site this widget is shown."
+msgstr "Wähle eine Kombination von Optionen um zu bestimmen, auf welchen Bereichen deiner Website dieses Widget angezeigt werden soll."
+
+#: form.php:42
+msgid "OFF"
+msgstr "INAKTIV"
+
+#: form.php:38
+msgid "ON"
+msgstr "AKTIV"
+
+#: form.php:34
+msgid "Widget Display Control"
+msgstr "Widget Display Control"
+
+#: admin.php:80
+msgid "Hide"
+msgstr "Verberge"
+
+#: admin.php:75
+msgid "Show only"
+msgstr "Nur anzeigen"
+
+#: admin.php:70
+msgid "Show"
+msgstr "Zeige"
